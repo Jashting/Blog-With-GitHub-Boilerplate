@@ -14,13 +14,13 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "test_blog"
+site_name = "Jashting"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "Sunmy"
-email = "hello.abc@com"
-author_homepage = "https://www.imalan.cn"
-description = "战争即和平，自由即奴役，无知即力量。"
+author = "Jashting"
+email = "sunmmying@gmail.com"
+# author_homepage = "https://www.imalan.cn"
+description = "戰爭即和平；自由即奴役；無知即力量。"
 key_words = ['Maverick', 'Sunmy', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
@@ -56,18 +56,13 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/sunmroly",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/Jashting",
         "icon": "gi gi-github"
-    },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
     }
 ]
 
